@@ -2,13 +2,11 @@
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
-  padding: 0 auto o auto;
+  padding: 0px 5vw;
   box-sizing: border-box;
   color: #333;
   line-height: 1.6;
   overflow-x: hidden;
-  /* Fixed Header Spacing */
-  padding-top: 80px;
 }
 .container {
   max-width: 1200px;
@@ -688,3 +686,4 @@ body {
     margin-bottom: 30px;
   }
 }
+
